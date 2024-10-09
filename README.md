@@ -40,6 +40,3 @@ A simple, console-based Wordle game built in Python. The game challenges users t
   - Letters in the correct position are capitalized.
   - Letters in the word but in the wrong position are displayed in lowercase.
   - Incorrect letters are added to a list for reference in future guesses.
-
-## Future Improvements
-No planned features or improvements at this time.
